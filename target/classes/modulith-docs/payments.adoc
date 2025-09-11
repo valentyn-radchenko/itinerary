@@ -1,0 +1,4 @@
+= Payments Module
+
+Responsible for processing ticket payments.
+Integrates with external payment providers.

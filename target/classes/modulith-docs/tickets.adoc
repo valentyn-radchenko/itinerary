@@ -1,0 +1,3 @@
+= Tickets Module
+
+Handles ticket purchase and validation.

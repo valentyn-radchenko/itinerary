@@ -1,0 +1,4 @@
+= Authentication Module
+
+Handles registration and login of users.
+Provides endpoints for user registration and authentication.
