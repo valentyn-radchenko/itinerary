@@ -1,3 +1,0 @@
-= Authentication Module
-
-Handles registration and login of users.

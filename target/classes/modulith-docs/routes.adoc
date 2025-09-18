@@ -1,3 +1,0 @@
-= Routes Module
-
-Manages public transport routes and schedules.

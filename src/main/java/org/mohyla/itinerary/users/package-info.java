@@ -1,4 +1,4 @@
-@org.springframework.modulith.ApplicationModule(displayName = "Users")
+@ApplicationModule(displayName = "Users")
 
 package org.mohyla.itinerary.users;
 
